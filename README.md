@@ -61,6 +61,7 @@ Python · pandas · NumPy · scikit-learn · Matplotlib · Power BI · Streamlit
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="180" alt="Estatísticas do GitHub de Vinícius" src="https://github-readme-stats.vercel.app/api?username=ElVini571&show_icons=true&theme=tokyonight&locale=pt-br" />
-  <img height="180" alt="Linguagens nos repositórios de Vinícius" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElVini571&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=6" />
+  <img height="180" alt="Estatísticas do GitHub de Vinícius" src="https://github-stats-extended.vercel.app/api?username=ElVini571&show_icons=true&theme=tokyonight&locale=pt-br" />
+  <img height="180" alt="Linguagens nos repositórios de Vinícius" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ElVini571&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=6" />
 </p>
+
